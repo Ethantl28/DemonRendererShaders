@@ -1,0 +1,1 @@
+SET PATH=%PATH%;C:\ProgramData\Microsoft\AppV\Client\Integration\C38A5331-DB8E-49ED-A9E0-C088A5871038\Root\VFS\ProgramFilesX86\CMake\bin

@@ -1,0 +1,1 @@
+call "./DemonRenderer/doc/bin/doxygen.exe" "./DemonRenderer/doc/Doxyfile"

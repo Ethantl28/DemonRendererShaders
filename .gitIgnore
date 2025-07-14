@@ -1,0 +1,8 @@
+# Prevent.vs directory
+.vs/
+# Prevent default VS build dir
+out/
+# Prevent default CMake command line build dir
+build/
+# Prevent imui.ini
+imgui.ini

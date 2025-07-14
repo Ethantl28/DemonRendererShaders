@@ -1,0 +1,17 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Ganfaul_Body
+Ns 250.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.000000
+illum 6
+map_Kd textures\\Ganfaul_diffuse.png
+map_Ks textures\\Ganfaul_specular.png
+map_emissive textures\\Ganfaul_glow.png
+map_Bump textures\\Ganfaul_normal.png
+
