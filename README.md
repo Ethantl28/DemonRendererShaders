@@ -101,3 +101,10 @@ Same Geometry as seen by LODs
 
 https://youtu.be/KqZfftn9hSE
 This video shows everything inside of the project
+
+
+
+
+
+
+<table> <tr> <td> <img width="100%" alt="Basic Scene" src="https://github.com/user-attachments/assets/220c3525-f7df-49a0-96b8-261abfc98e11" /> <p align="center"><b>Basic Scene</b><br>Unlit view with no post-processing</p> </td> <td> <img width="100%" alt="Post Processing Options" src="https://github.com/user-attachments/assets/038d1d30-84a2-4c61-a9e9-b95687d38958" /> <p align="center"><b>Post-Processing Controls</b><br>Real-time toggles via ImGui</p> </td> </tr> <tr> <td> <img width="100%" alt="Noise Map Controls" src="https://github.com/user-attachments/assets/4e6dc01f-9283-4e1b-962d-78558a2916d5" /> <p align="center"><b>Noise Map Generation</b><br>Procedural terrain via noise tab</p> </td> <td> <img width="100%" alt="Generated Geometry" src="https://github.com/user-attachments/assets/954b5d4f-6625-408a-836b-47397ad1d586" /> <p align="center"><b>Generated Geometry</b><br>Terrain shaped by noise-based heightmap</p> </td> </tr> <tr> <td colspan="2"> <img width="100%" alt="LOD Example" src="https://github.com/user-attachments/assets/2691428a-c827-48b8-9a6a-933a973fc8ce" /> <p align="center"><b>LOD Preview</b><br>Same terrain with distance-based tessellation</p> </td> </tr> </table>
